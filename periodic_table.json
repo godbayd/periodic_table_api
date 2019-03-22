@@ -685,7 +685,7 @@
     "chemical_name": "europium",
     "atomic_number": "63",
     "atomic_mass": "151.96",
-    "symbol": "Sm",
+    "symbol": "Eu",
     "group": {
       "name": "lanthanoids",
       "ordinal_number": "3"
@@ -729,7 +729,7 @@
     "chemical_name": "holmium",
     "atomic_number": "67",
     "atomic_mass": "164.93",
-    "symbol": "Dy",
+    "symbol": "Ho",
     "group": {
       "name": "lanthanoids",
       "ordinal_number": "3"
@@ -1004,7 +1004,7 @@
     "chemical_name": "uranium",
     "atomic_number": "92",
     "atomic_mass": "238.03",
-    "symbol": "Pa",
+    "symbol": "U",
     "group": {
       "name": "actinoids",
       "ordinal_number": "3"
